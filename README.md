@@ -10,14 +10,12 @@
 
 <div align="center">
  <!--  🔭 I’m currently working on **a marketplace**   -->
+📚 **Student at** [**FAST**](https://nu.edu.pk/)
     
  🌱 I’m currently learning **Python , Computer Networks**
 
  💬 Ask me about anything via email: [mhassanimranf@gmail.com](mailto:mhassanimranf@gmail.com) 
 
- [![FAST-NU](https://www.nu.edu.pk/Content/images/NU-logo.jpg)](https://nu.edu.pk/)
-
-**I am a student at** [**FAST National University of Computer and Emerging Sciences**](https://nu.edu.pk/)
 
 <div align="center">
     <img src="https://www.nu.edu.pk/Content/images/NU-logo.jpg" />
