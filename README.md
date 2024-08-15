@@ -10,9 +10,10 @@
 
 <div align="center">
  <!--  🔭 I’m currently working on **a marketplace**   -->
+    
  🌱 I’m currently learning **Python , Computer Networks**
 
-💬 Ask me about **anything [here](https://github.com/mhassanif/mhassanif/issues)**
+💬 Ask me about **anything [here](mhassanimranf@gmail.com)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
