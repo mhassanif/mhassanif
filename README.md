@@ -66,7 +66,7 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhassanif&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
     
-<!--  hide & lang count parameters  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhassanif&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
+<!--  hide languages & lang count limit parameters  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhassanif&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
 
 </div>
 
