@@ -15,7 +15,7 @@
 
  💬 Ask me about anything via email: [mhassanimranf@gmail.com](mailto:mhassanimranf@gmail.com) 
 
- [![FAST-NU](https://nu.edu.pk/Content/images/Footer-Logo.png)](https://nu.edu.pk/)
+ [![FAST-NU](https://www.nu.edu.pk/Content/images/NU-logo.jpg)](https://nu.edu.pk/)
 
 **I am a student at** [**FAST National University of Computer and Emerging Sciences**](https://nu.edu.pk/)
 
