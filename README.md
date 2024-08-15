@@ -63,9 +63,11 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
+<!-- play around with theme, height, row cols etc for trophies // uncomment when stats good
 <p align="center">
       <img height="100" src="https://github-profile-trophy.vercel.app/?username=mhassanif&theme=dracula&no-bg=true&no-frame=true&row=1&margin-w=5" alt="Hassan's Trophies">
 </p> 
+-->
 
 <div align=center>    
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mhassanif&theme=tokyonight" alt="streak stats"/>
