@@ -19,6 +19,10 @@
 
 **I am a student at** [**FAST National University of Computer and Emerging Sciences**](https://nu.edu.pk/)
 
+<div align="center">
+    <img src="https://www.nu.edu.pk/Content/images/NU-logo.jpg" />
+</div>
+
 
 <!--⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs** -->
 
