@@ -15,7 +15,13 @@
 
  💬 Ask me about anything via email: [mhassanimranf@gmail.com](mailto:mhassanimranf@gmail.com) 
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ [![FAST-NU](https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Fast-nu-logo.png/800px-Fast-nu-logo.png)](https://nu.edu.pk/)
+
+**I am a student at** [**FAST National University of Computer and Emerging Sciences**](https://nu.edu.pk/)
+
+
+<!--⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs** -->
+
 
  </div>
  
