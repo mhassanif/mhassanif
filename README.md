@@ -58,9 +58,9 @@
 
 <hr/>
 
-<p align="center">
+<div align="center">
       <img height="165" src="https://github-profile-trophy.vercel.app/?username=mhassanif&theme=dracula&no-bg=true&no-        frame=true&column=5&row=1&margin-w=5" alt="GitHub Profile Trophy">
-</p> 
+</div> 
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
