@@ -15,7 +15,7 @@
     
  🌱 I’m currently learning **Python , Computer Networks**
 
- 💬 Ask me anything **[here](https://github.com/mhassanif/mhassanif/issues)**
+ 💬 Ask me about anything **[here](https://github.com/mhassanif/mhassanif/issues)**
 
 
 <div align="center">
