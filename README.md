@@ -11,7 +11,7 @@
 <div align="center">
  <!--  🔭 I’m currently working on **a marketplace**   -->
     
-  📚 Student at **[here](https://nu.edu.pk/)**
+  📚 Student at **[FAST NU](https://nu.edu.pk/)**
     
  🌱 I’m currently learning **Python , Computer Networks**
 
