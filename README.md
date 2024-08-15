@@ -10,11 +10,11 @@
 
 <div align="center">
  <!--  🔭 I’m currently working on **a marketplace**   -->
-📚 **Student at** [**FAST**](https://nu.edu.pk/)
+  📚 **Student at** [**FAST**](https://nu.edu.pk/)
     
  🌱 I’m currently learning **Python , Computer Networks**
 
- 💬 Ask me about anything via email: [mhassanimranf@gmail.com](mailto:mhassanimranf@gmail.com) 
+ 💬 Ask me anything [here](https://github.com/mhassanif/mhassanif/issues)**
 
 
 <div align="center">
