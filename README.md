@@ -63,6 +63,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
+<p align="center">
+      <img height="100" src="https://github-profile-trophy.vercel.app/?username=mhassanif&theme=dracula&no-bg=true&no-frame=true&row=1&margin-w=5" alt="Hassan's Trophies">
+</p> 
 
 <div align=center>    
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mhassanif&theme=tokyonight" alt="streak stats"/>
@@ -71,9 +74,6 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhassanif&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
-<p align="center">
-      <img height="100" src="https://github-profile-trophy.vercel.app/?username=mhassanif&theme=dracula&no-bg=true&no-frame=true&column=5&row=1&margin-w=5" alt="Hassan's Trophies">
-</p> 
     
 <!--  hide languages & lang count limit parameters  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhassanif&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
 
