@@ -13,7 +13,7 @@
     
  🌱 I’m currently learning **Python , Computer Networks**
 
-💬 Ask me about anything via email: <a href="gmail.com">mhassanimranf@gmail.com</a>
+💬 [Ask me anything via email](mailto:mhassanimranf@gmail.com?subject=[GitHub]%20Inquiry)
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
