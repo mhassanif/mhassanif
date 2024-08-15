@@ -60,12 +60,11 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-
-<div align=center>
     <p align="center">
       <img height="165" src="https://github-profile-trophy.vercel.app/?username=mhassanif&theme=dracula&no-bg=true&no-        frame=true&column=5&row=1&margin-w=5" alt="GitHub Profile Trophy">
     </p> 
-    
+<br>
+<div align=center>    
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mhassanif&theme=tokyonight" alt="streak stats"/>
   <!-- <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mhassanif&count_private=true&theme=react&border_radius=10" alt="streak stats"/> -->
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=mhassanif&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
