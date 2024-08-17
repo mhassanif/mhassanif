@@ -70,7 +70,7 @@
 -->
 
 <div align=center>    
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mhassanif&theme=tokyonight" alt="streak stats"/>
+  <img width=390 height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=mhassanif&theme=tokyonight" alt="streak stats"/>
   <!-- <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mhassanif&count_private=true&theme=react&border_radius=10" alt="streak stats"/> -->
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=mhassanif&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
