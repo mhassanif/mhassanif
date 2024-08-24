@@ -13,7 +13,7 @@
     
   📚 Student at **[FAST NU](https://nu.edu.pk/)**
     
- 🌱 I’m currently learning **Python , Computer Networks**
+ 🌱 I’m currently learning **Full-stack Web Development , Computer Networks**
 
  💬 Ask me about anything **[here](https://github.com/mhassanif/mhassanif/issues)**
 
