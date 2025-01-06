@@ -17,8 +17,6 @@
 
  💬 Ask me about anything **[here](https://github.com/mhassanif/mhassanif/issues)**
 
-<!--⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs** -->
-
  </div>
  
 <div align="center"> 
@@ -42,7 +40,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,cpp,cs" />
-    <img src="https://skillicons.dev/icons?i=python,mongodb,c,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=python,mongodb,c,mysql,java" /><br>
 </div>
 
 <br/>
