@@ -13,7 +13,7 @@
     
   📚 Student at **[FAST NU](https://nu.edu.pk/)**
     
- 🌱 I’m currently learning **Full-stack Web Development**
+ 🌱 I’m currently learning **Agentic AI & MCP**
 
  💬 Ask me about anything **[here](https://github.com/mhassanif/mhassanif/issues)**
 
