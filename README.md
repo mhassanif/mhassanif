@@ -4,16 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hassan+Imran!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Pakistan 🇵🇰</h3>
+<h3 align="center">Software developer from Pakistan 🇵🇰</h3>
 
 <br/>
 
 <div align="center">
  <!--  🔭 I’m currently working on **a marketplace**   -->
     
-  📚 Student at **[FAST NU](https://nu.edu.pk/)**
-    
- 🌱 I’m currently learning **Agentic AI & MCP**
 
  💬 Ask me about anything **[here](https://github.com/mhassanif/mhassanif/issues)**
 
@@ -28,10 +25,7 @@
   </a>
   <a href="https://github.com/mhassanif?tab=repositories" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank"/> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-      <a href="https://www.instagram.com/m.hassan.imran/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-&logo=instagram&logoColor=white"target="_blank" style="height:28px;"/>
-  </a>
+
 </div>
 
  <hr/>
